@@ -1149,7 +1149,7 @@ SECTION StarportStates
 643321EE0FC5B8: "Under Repairs" => "En cours de réparation"
 F34FB6E3669DFD: "Abandoned" => "Abandonné"
 DA33E1B7E0C4EA: "Construction" => "En construction"
-18FC67B9AB74B9: "Damaged Human" @
+18FC67B9AB74B9: "Damaged Human" => "Endommagé (Humain)"
 
 SECTION StarportTypes
 
@@ -1241,7 +1241,7 @@ E4B1AB2D0505E8: "Cytoscrambler Burst Laser" => "Laser à rafale cytobrouilleur"
 306BFD525FA9C5: "Fragment Cannon" => "Canon à fragmentation"
 8DFC90E4A072C6: "Pacifier Fragment Cannon" => "Pacificateur à fragmentation"
 D3BBF2FAE69CDA: "Corrosion Resistant Cargo Rack" => "Compartiment de soute anticorrosion"
-4C621ED5B80D7D: "Anti Corrosion Cargo Rack" @
+4C621ED5B80D7D: "Anti Corrosion Cargo Rack" => "Compartiment de soute anticorrosion"
 93C5390A421D81: "Cargo Rack" => "Compartiment soute"
 AC08D99EB032B0: "Agile Boost Engine" @
 9917741FA0BE27: "Manifest Scanner" => "Détecteur de manifeste"
@@ -1303,7 +1303,7 @@ C008DCFA55478D: "Rocket Propelled FSD Disrupter" => "Missile de confinement à p
 8E84C39592581B: "Pack Hound Missile Rack" => "Batterie de missiles essaim"
 CD7FA37A5942F0: "Advanced Torp Pylon" @
 D47989B5AEA7E2: "Advanced Missile Rack" => "Batterie de missiles perfectionnée"
-41CF6E004D66DD: "Sub surface Extraction Missile" @
+41CF6E004D66DD: "Sub surface Extraction Missile" => "Missile d'extraction souterraine"
 B3A021E4800549: "Enzyme Missile Rack" => "Batterie de missiles enzymatiques"
 94E9918390EAA7: "Module Reinforcement Package" => "Pack de renforcement de modules"
 8454F69AA40E0B: "AX Multi Cannon" => "Multi-canon AX"
@@ -1320,7 +1320,7 @@ CA39470A7A6DED: "Advanced Planet Approach Suite" => "Inst. approche planétaire 
 36AA174EFAA515: "Plasma Accelerator" => "Accélérateur à plasma"
 F79B4B8AD884B9: "Advanced Plasma Accelerator" => "Accélérateur à plasma perfectionné"
 1D202C4D8DA513: "Shock Cannon" => "Canon de choc"
-0CDA078656B69A: "Shock Cannon MK II" @
+0CDA078656B69A: "Shock Cannon MK II" => "Canon de choc Mk II"
 7A5078EF876AD6: "Power Distributor" => "Répartiteur de puissance"
 717B5FB556BE67: "Power Plant" => "Générateur"
 B274BC2A7429E0: "Pulse Laser" => "Laser à impulsion"
@@ -1388,9 +1388,9 @@ A7AB21F5CF19AE: "Medium Hardpoint 5" => "Point d'emport moyen 5"
 77E9039F43F6E2: "Military Slot 1" => "Emplacement militaire 1"
 A22CCB7E4839AD: "Military Slot 2" => "Emplacement militaire 2"
 62898937228B9D: "Military Slot 3" => "Emplacement militaire 3"
-12B03109BE7102: "Passenger Slot 1" @
-4CA5B20A43C19C: "Passenger Slot 3" @
-1A1276E80D136D: "Passenger Slot 2" @
+12B03109BE7102: "Passenger Slot 1" => "Emplacement passagers 1"
+4CA5B20A43C19C: "Passenger Slot 3" => "Emplacement passagers 3"
+1A1276E80D136D: "Passenger Slot 2" => "Emplacement passagers 2"
 659756B43DB6FA: "Paint Job" => "Peinture"
 1247331999BD41: "Ship Cockpit" => "Cockpit du vaisseau"
 B94A658100919D: "Ship ID Right" => "Identifiant droit"
